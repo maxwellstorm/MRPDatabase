@@ -1,0 +1,31 @@
+test1 = upload all all BU, then All with BU consumers, then specific account amazon with jabuary and feb 2015 as dates
+	run 1:
+		results: noBU is wrong
+	run 2:
+		results: Check!
+test2 = reverse of test 1
+	run 1:
+		results: ok!
+	run 2:
+		results: Check!
+
+test 3 = all with BU consumers, then all no BU, then specific account
+	run 1:
+		results : good!
+
+test 4: test 1 with two different accounts
+		run 1:
+			results: Check!
+
+test 5: test 2 with two different accounts
+		run 1:
+			results: check!
+
+test 6 test 3 with two accounts
+	run 1:
+		check!
+
+test 7 upload account, then all no bu, then accouint, then all bu	
+	run 1:
+		results: check!
+	run 2: overwrite Check!
